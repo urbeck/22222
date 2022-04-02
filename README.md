@@ -1,1 +1,2 @@
-# 22222
+from pygame import*
+#22222
